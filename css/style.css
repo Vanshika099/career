@@ -1,0 +1,16 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-image: url(../img/wallpaper.jpg);
+    background-repeat: no-repeat;
+    background-position: center; 
+    width: 100vw;
+    height: 100vh;
+}
+.navbar-custom{
+    background-color: rgb(119, 73, 170);
+    font-weight: bold;
+}
+.bgcol{
+    background-color: rgb(199, 164, 238);
+}
